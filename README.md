@@ -9,3 +9,8 @@ You can click the Preview link to take a look at your changes.
 | ---------------------------- | ---------------- | -------------- | ------------------- | ----- |
 | ✅ **Proficient in**        | Vue3, Tailwind   | Laravel        | C#, .NET             | C     |
 | 🧠 **Currently learning**   | React            | ASP.NET        | WPF, EntityFramework |       |
+
+## Spoken Languages
+
+- **English**: C1 ([CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Common_reference_levels))
+- **Hungarian**: Native
