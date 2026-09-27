@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 |                              | Web - Frontend   | Full stack     | Desktop             | Other |
 | ---------------------------- | ---------------- | -------------- | ------------------- | ----- |
-| ✅ **Proficient in**        | Vue3, Tailwind   | Laravel        | C#, .NET             | C     |
+| ✅ **Proficient in**        | Vue3, Tailwind   | Laravel        | C#, .NET             | C,C++ |
 | 🧠 **Currently learning**   | React            | ASP.NET        | WPF, EntityFramework |       |
 
 ## Spoken Languages
